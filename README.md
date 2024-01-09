@@ -12,7 +12,7 @@
   
   🙂I love connecting with different people, so if you want to say hi, I'll be happy to meet you more!
   <div align="right">
-    <img src="<div style="width:100%;height:0;padding-bottom:56%;position:relative;"><iframe src="https://giphy.com/embed/L1R1tvI9svkIWwpVYr" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/Pluralsight-computer-technology-coding-L1R1tvI9svkIWwpVYr" width="200" height="200"> 
+ <img src="https://img.freepik.com/free-vector/programmer-working-web-development-code-engineer-programming-python-php-java-script-computer_90220-249.jpg?w=360" width="150" height="150"> 
  
   </div>
   

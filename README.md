@@ -12,7 +12,8 @@
   
   🙂I love connecting with different people, so if you want to say hi, I'll be happy to meet you more!
   <div align="right">
-  <img src="https://img.freepik.com/free-vector/programmer-working-web-development-code-engineer-programming-python-php-java-script-computer_90220-249.jpg?w=360" width="200" height="200"> 
+    <img src="https://giphy.com/gifs/Pluralsight-girl-woman-pluralsight-LMcB8XospGZO8UQq87  width="200" height="200"> 
+ 
   </div>
   
   ---

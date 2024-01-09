@@ -12,7 +12,7 @@
   
   🙂I love connecting with different people, so if you want to say hi, I'll be happy to meet you more!
   <div align="right">
-    <img src="https://giphy.com/gifs/Pluralsight-girl-woman-pluralsight-LMcB8XospGZO8UQq87  width="200" height="200"> 
+    <img src="<iframe src="https://giphy.com/embed/LMcB8XospGZO8UQq87" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/Pluralsight-girl-woman-pluralsight-LMcB8XospGZO8UQq87">via GIPHY</a></p>  width="200" height="200"> 
  
   </div>
   
